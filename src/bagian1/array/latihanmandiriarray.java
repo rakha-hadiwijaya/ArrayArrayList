@@ -1,6 +1,6 @@
 package bagian1.array;
 
-public class latihanmandiri {
+public class latihanmandiriarray {
     public static void main(String[] args){
         double[] suhu = {31.5, 32.0, 34.7, 30.0, 35.0, 38.0};
         double max = suhu[0];
