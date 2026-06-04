@@ -8,10 +8,10 @@ public class latihanmandiri {
         
         for(double s:suhu){
             if(s > max){
-                max = 5;
+                max = s;
             }
             if(s < min){
-                min = 5;
+                min = s;
             }
         }
         
